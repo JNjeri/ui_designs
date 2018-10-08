@@ -7,4 +7,8 @@ This design is a UI on how an app will look like . The app itself will be able t
 ---
 ![sign up mockup 1](https://user-images.githubusercontent.com/35129476/46617734-300aa580-cb26-11e8-87ad-54c9d681094d.png)
 
-
+The ui has four screens that is
+*Sign up screen
+*Sign in screen
+*The menu
+*Animas involved
