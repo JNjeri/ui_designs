@@ -6,4 +6,5 @@ This design is a UI on how an app will look like . The app itself will be able t
 
 ---
 
-![this is the result of how the app will look like](MINGW64:/c/Users/Student.Administ/Documents/app/sign up mockup.png)
+![sign up mockup](https://user-images.githubusercontent.com/35129476/46617260-fbe2b500-cb24-11e8-8ff0-f3300023be55.png)
+
