@@ -19,7 +19,7 @@ The ui has four screens that is
 
 ---
 
-### screen2
+### screen1
 
 The first screen takes in the credentials of a farmer who already has an account to get access to the information
 
