@@ -2,7 +2,7 @@
 
 ---
 
-This design is a UI on how an app will look like . The app itself will be able to give information to farmers on how to feed their animals in an appropriate way according to their age stage.
+This design is a UI on how Farmia app will look like . The app itself will be able to give information to farmers on how to feed their animals in an appropriate way according to their age stage.
 
 ---
 
@@ -16,3 +16,11 @@ The ui has four screens that is
 <li>The menu</li>
 <li>Animas involved</li>
 </ul>
+
+---
+
+The first screen takes in the credentials of a farmer who already has an account to get access to the information
+
+---
+
+The second screen takes in information of a farmer who does not have an account yet
