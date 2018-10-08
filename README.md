@@ -5,6 +5,6 @@
 This design is a UI on how an app will look like . The app itself will be able to give information to farmers on how to feed their animals in an appropriate way according to their age stage.
 
 ---
+![sign up mockup 1](https://user-images.githubusercontent.com/35129476/46617734-300aa580-cb26-11e8-87ad-54c9d681094d.png)
 
-![sign up mockup](https://user-images.githubusercontent.com/35129476/46617260-fbe2b500-cb24-11e8-8ff0-f3300023be55.png)
 
